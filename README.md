@@ -4,11 +4,13 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-Rails4 - Bootstrap3 - RSpec - Capybara - Devise - Heroku and more get into production for one click.
+Rails4 - Bootstrap3 - RSpec - Capybara - Devise - Heroku and more to help you get into production for one click.
 
 ## Overview
 
 ## Demo
+[Demo on Heroku][https://rails-bootstrap-devise-app.herokuapp.com/]
+
 
 ## Gem lists
 
