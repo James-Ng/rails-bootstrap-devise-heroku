@@ -21,7 +21,7 @@ Rails4 - Bootstrap3 - RSpec - Capybara - Devise - Heroku and more get into produ
 * Rubocop
 * Sass-rails
 * Devise
- ...
+* ...
 
 ## Configuration and installation
 

@@ -4,6 +4,8 @@ ruby '2.3.1'
 gem 'rails', '4.2.6'
 # Servers
 gem 'puma', '~> 3.4.0'
+# db
+gem 'pg', '0.18.4'
 gem 'bootstrap-sass', '3.3.6'
 # Use SCSS for stylesheets
 gem 'sass-rails', '5.0.5'
@@ -59,13 +61,10 @@ group :development do
   # generate field of active record
   gem 'annotate', '2.7.1'
   gem 'bootstrap-generators', '3.3.4'
-  # Use sqlite3 as the database for Active Record
-  gem 'sqlite3'
   # Access an IRB console on exception pages or by using <%= console %> in views
   gem 'web-console', '~> 2.0'
 end
 
 group :production do
-  gem 'pg', '0.18.4'
   gem 'rails_12factor', '0.0.3'
 end
