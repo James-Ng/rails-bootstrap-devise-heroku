@@ -1,0 +1,20 @@
+@import 'bootstrap-sprockets';
+@import 'bootstrap';
+
+
+footer {
+  margin-top: 45px;
+  padding-top: 5px;
+  border-top: 1px solid #eaeaea;
+  color: #777;
+  small {
+    float: left;
+  }
+  ul {
+    float: right;
+    list-style: none;
+    li {
+      margin-left: 15px;
+    }
+  }
+}
