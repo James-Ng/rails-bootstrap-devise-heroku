@@ -9,7 +9,7 @@ Rails4 - Bootstrap3 - RSpec - Capybara - Devise - Heroku and more to help you ge
 ## Overview
 
 ## Demo
-[Demo on Heroku][https://rails-bootstrap-devise-app.herokuapp.com/]
+[Demo on Heroku](https://rails-bootstrap-devise.herokuapp.com/)
 
 
 ## Gem lists
