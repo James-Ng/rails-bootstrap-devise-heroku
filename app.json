@@ -1,0 +1,23 @@
+{
+  "name": "Rails Starter Stack",
+  "description": "A starter app used Rails4 - Bootstrap3 - Sass - Devise - RSpec - Capybara. ",
+  "keywords": [
+    "Devise",
+    "Rails 4",
+    "Bootstrap",
+    "RSpec",
+    "Capybara",
+    "Heroku"
+  ],
+  "website": "http://rails-foundation.herokuapp.com/",
+  "repository": "https://github.com/James-Ng/rails-bootstrap-devise-heroku.git",
+  "success_url": "/",
+  "scripts": {
+    "postdeploy": "bundle exec rake db:migrate"
+  },
+  "addons": [
+    "heroku-postgresql:hobby-dev",
+    "papertrail",
+    "newrelic"
+  ]
+}

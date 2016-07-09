@@ -1,4 +1,9 @@
 # Rails starter stack
+
+[![Build Status](https://travis-ci.org/James-Ng/rails-bootstrap-devise-heroku.svg?branch=master)](https://travis-ci.org/James-Ng/rails-bootstrap-devise-heroku)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 Rails4 - Bootstrap3 - RSpec - Capybara - Devise - Heroku and more get into production for one click.
 
 ## Overview
