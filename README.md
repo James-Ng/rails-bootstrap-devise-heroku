@@ -7,16 +7,16 @@ Rails4 - Bootstrap3 - RSpec - Capybara - Devise - Heroku and more get into produ
 
 ## Gem lists
 
-Ruby 2.3.1
-Rails 4.2.6
-Puma
-Capybara
-RSpec
-Bootstrap
-Rubocop
-Sass
-Devise
-...
+* Ruby 2.3.1
+* Rails 4.2.6
+* Puma
+* Capybara
+* RSpec
+* Bootstrap
+* Rubocop
+* Sass-rails
+* Devise
+ ...
 
 ## Configuration and installation
 
